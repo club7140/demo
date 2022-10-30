@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author: zy
  * @date:  2022/10/28 11:32 AM
  *
- * @description: demo club
+ * @description: demo club 1
  */
 @SpringBootApplication
 public class DemoApplication {
